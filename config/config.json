@@ -1,0 +1,31 @@
+{
+  "development": {
+    "username": "21880291db",
+    "password": null,
+    "database": "21880291ckdb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "cuoikyDB",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "production": {
+    "username": "pctpokyx",
+    "password": "9PL3GatqNjoVJXKyWT3RBhsr5ZNvLpGN",
+    "database": "pctpokyx",
+    "host": "mahmud.db.elephantsql.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
