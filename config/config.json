@@ -23,10 +23,10 @@
     "port": 5433
   },
   "production": {
-    "username": "pctpokyx",
-    "password": "9PL3GatqNjoVJXKyWT3RBhsr5ZNvLpGN",
-    "database": "pctpokyx",
-    "host": "mahmud.db.elephantsql.com",
+    "username": "thienanlogictisbd_dbweb_user",
+    "password": "oxzqFFkTuZoNcR8wGUAkT6OVdP3OkcI2",
+    "database": "thienanlogictisbd_dbweb",
+    "host": "dpg-cq60r0d6l47c738sq1l0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
