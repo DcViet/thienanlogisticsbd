@@ -15,7 +15,7 @@
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #222222; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #172a28; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #555; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --accent-color: #0077b6; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --contrast-color: #ffffff; /* The contrast color is used for elements when the background color is one of the heading, accent, or default colors. Its purpose is to ensure proper contrast and readability when placed over these more dominant colors */
 }
 
@@ -67,7 +67,7 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: #888;
+  --background-color: #0096c7;
   --heading-color: #ffffff;
   color: var(--default-color);
   transition: all 0.5s;

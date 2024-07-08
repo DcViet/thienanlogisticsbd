@@ -2,7 +2,7 @@
   "development": {
     "username": "21880291db",
     "password": null,
-    "database": "21880291ckdb",
+    "database": "thienanlogisticsdb",
     "host": "localhost",
     "dialect": "postgres"
   },
